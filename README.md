@@ -4,10 +4,10 @@ Este repositorio contiene el trabajo realizado en conjunto con mis compañeros S
 
 En este proyecto se desarrolla una red neuronal multicapa con optimización de hiperparámetros aplicada a un problema de clasificación multiclase.
 
-- `assignment.ipynb` - Desarrollo completo del trabajo  
-- `assignment.html` - Versión en HTML del notebook
+- [Assignment6.ipynb](Assignment6.ipynb) - Desarrollo completo del trabajo  
+- [Assignment6.html](Assignment6.html) - Versión en HTML del notebook
 
-## Información del dataset
+## Información del dataset -> [wine.csv](wine.csv)
 
 El dataset seleccionado para este proyecto es *Wine Recognition Data* (Forina et al., 1991), recuperado de [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/109/wine) Este conjunto de datos pertenece al área de análisis químico de alimentos y se utiliza para la clasificación de vinos italianos.
 
